@@ -2,3 +2,7 @@ temp/
 data/
 *.csv
 *.joblib
+
+
+#pycharm files
+.idea
